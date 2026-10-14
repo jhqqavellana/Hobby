@@ -1,13 +1,12 @@
 public class Hobby {
     public static void main(String[] args) {
-        displayTraineeHobbyA();
+        displayTraineeHobbyAA();
         displayTraineeHobbyB();
         displayTraineeHobbyC();
-        displayTraineeHobbyX();
 }
 }
 
-public static void displayTraineeHobbyX() {
-    System.out.println("Trainee X’s Hobbies:");
+public static void displayTraineeHobbyA() {
+    System.out.println("Trainee A’s Hobbies:");
 // Hobbies of Trainee X will be added here
 }
